@@ -1,0 +1,45 @@
+ID,CommonName,ScientificName,Edible,Fact
+1,Bangus,Chanos chanos,YES,Prized for its tender meat and distinct flavor - Bangus is the national fish of the Philippines.
+2,Big Head Carp,Hypophthalmichthys nobilis,YES,Used in Asian cuisine for soups and stir-fries - the Big Head Carp is known for its mild flavor and large size.
+3,Black Sea Sprat,Clupeonella cultriventris,YES, A small oily fish found in the Black Sea region often enjoyed fresh or smoked in salads and appetizers.
+4,Black Spotted Barb,Puntius filamentosus,YES, Edible and found in freshwater habitats - Black Spotted Barb is prepared by grilling or frying.
+5,Catfish,Siluriformes,YES,Widely consumed for its mild taste and firm texture - Catfish is versatile in cooking methods like frying and grilling.
+6,Catla,Catla catla,YES,Popular in South Asian cuisine - Catla is used in curries and traditional dishes.
+7,Climbing Perch,Anabas testudineus,YES, Surviving out of water for extended periods - Climbing Perch is a favorite in Southeast Asian cuisine and is often fried or grilled.
+8,CommonCarp,Cyprinus carpio,YES, With a firm texture and earthy flavor - Common Carp is enjoyed baked or smoked in Europe and Asia.
+9,Fourfinger Threadfin,Eleutheronema tetradactylum,YES, Delicate and white-fleshed-Fourfinger Threadfin is popular in Singaporean and Malaysian cuisine-often steamed or pan-fried.
+10,Freshwater Eel,Anguilla species,YES,Prized as Unagi in Japanese cuisine - Freshwater Eel is grilled with a sweet soy-based sauce.
+11,Gilt-Head Bream,Sparus aurata,YES,Highly valued in Mediterranean cuisine - Gilt-Head Bream is often grilled whole with herbs and olive oil.
+12,Glass Perchlet,Ambassis species,YES,Found in brackish waters and consumed in Asia - Glass Perchlet is typically fried or steamed.
+13,Goby,Gobiidae,YES,Small - bottom-dwelling fish prepared by frying or grilling in freshwater and marine environments.
+14,Gold Fish,Carassius auratus,NO,Ornamental pet species not typically consumed as food.
+15,Gourami,Trichogaster species,YES,Colorful freshwater fish - some species of Gourami are consumed in Southeast Asian cuisine.
+16,Grass Carp,Ctenopharyngodon idella,YES,Herbivorous freshwater fish used for vegetation control and occasionally consumed in certain regions.
+17,Green Spotted Puffer,Tetraodon nigroviridis,NO,Not typically consumed due to potential toxicity - the Green Spotted Puffer is admired for its unique appearance.
+18,Hourse Mackerel,Trachurus species,YES,Commonly used in canned fish products - Horse Mackerel is edible and found in various oceans.
+19,Indo-Pacific Tarpon,Megalops cyprinoides,YES,Large coastal fish with a strong taste and bony texture - not commonly consumed.
+20,Jaguar Gapote,Parachromis managuensis,YES,Local delicacy in Central America known for its firm - white flesh.
+21,Janitor Fish,Pterygoplichthys disjunctivus,NO,Algae-eating fish popular in aquariums - not consumed as food.
+22,Knifefish,Notopteridae,YES,Edible family of elongated - knife-like fish found in South America.
+23,Long-Snouted Pipefish,Syngnathus macropterygia,YES,Small marine fish with a specialized habitat - not commonly consumed.
+24,Mori,Cirrhinus mrigala,YES,Spotted Moray Eel prized for its delicate flavor in certain cuisines.
+25,Mosquito Fish,Gambusia affinis,NO,Used for mosquito control - not consumed as food.
+26,Mudfish,Neoxhanna,YES,Edible fish belonging to the genus Neoxhanna.
+27,Mullet,Mugilidae,YES,Strong-flavored fish often smoked or dried for culinary use worldwide.
+28,Pangasius,Pangasianodon hypophthalmus,YES,Mild-tasting freshwater catfish popular in Southeast Asian cuisine.
+29,Perch,Perca fluviatilis,YES,Sweet - white-fleshed freshwater fish enjoyed in recreational fishing and culinary dishes.
+30,Red Mullet,Mullus barbatus,YES,Saltwater fish popular in Mediterranean cuisine - often grilled or fried.
+31,Red Sea Bream,Pagrus major,YES,Prized in Japanese cuisine - Red Sea Bream is often grilled or steamed whole.
+32,Rohu,Labeo rohita,YES,Commonly used in South Asian cuisine - Rohu is known for its firm texture and versatility.
+33,Scat Fish,Scatophagus argus,YES,Tropical fish occasionally consumed in Southeast Asian cuisine.
+34,Sea Bass,Centropristis striata,YES,Popular saltwater fish prized for its mild flavor and tender texture.
+35,Shrimp,Penaeus,YES,Crustacean with sweet - delicate meat enjoyed worldwide in various culinary dishes.
+36,Silver Barb,Barbonymus gonionotus,YES,Freshwater fish used in curries or soups in certain regions.
+37,Silver Carp,Hypophthalmichthys molitrix,YES,Asian carp with firm - white flesh used in Asian dishes like fish cakes and stir-fries.
+38,Silver Perch,Bidyanus bidyanus,YES,Freshwater fish known for its sweet - delicate flesh and popular in aquaculture.
+39,Snakehead,Channidae,NO,Predatory freshwater fish consumed in regional cuisines in Asia and Africa.
+40,Striped Red Mullet,Mullus surmuletus,YES,Found in the Mediterranean and Black Sea - valued for its flavorful flesh.
+41,Tenpounder,Elopidae,YES,Threadfin Trevally commonly consumed in various Asian cuisines.
+42,Tilapia,Oreochromis niloticus,YES,Mild-tasting freshwater fish popular in aquaculture - prepared in various ways like baking - frying - grilling.
+43,Trout,Oncorhynchus mykiss,YES,Freshwater fish prized for its delicate flavor - often prepared by pan-frying - grilling - smoking.
+44,no_fish,NA,NA,a non-edible item or unspecified fish species .
